@@ -36,7 +36,7 @@ gamehaven-api/
 ##  Getting Started
 
 ```bash
-git clone https://github.com/Abdelrhman1020/NodeJs--GameHaven-API--Project.git
+git clone https://github.com/Abdelrhman1020/GameHavenAPI-Project.git
 cd gamehaven-api
 npm install
 ```
