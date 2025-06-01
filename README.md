@@ -58,7 +58,7 @@ node app.js
 ##  Team Members
 
 - **Abdelrhman Ali Abozaid** (Team Leader) – Project Structure, User Authentication
-- **Basant Elsayed** – Game Module
+- **Basant Elsaey** – Game Module
 - **Mohamed Abdelkader** – Cart Module
 - **Mohamed Shawky** – Order Module
 
